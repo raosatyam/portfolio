@@ -87,7 +87,7 @@ ul li a:hover{
     margin: 7px 0;
     border: 2px solid white;
     border-radius: 8px;
-    background: none;
+    background: rgb(235, 212, 212);
     color:black;
     cursor: pointer;
 }
